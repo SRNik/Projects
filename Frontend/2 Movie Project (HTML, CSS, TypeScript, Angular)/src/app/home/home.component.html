@@ -1,0 +1,63 @@
+<app-header></app-header>
+
+<div class="home-container">
+
+    <div class="all-movies">
+        <div class="trending-movies">
+            <div class="top">
+                <h4>TRENDING MOVIES</h4>
+                <div class="view-all">View All</div>
+            </div>
+
+            <div class="movies-thumbnail">
+                <div class="movie" *ngFor="let m of trendingMovies" (click)="goToMovie('trending', m.id)">
+                    <div class="cover-img" style="cursor: pointer;">
+                        <img [src]="m.cover" alt="">
+                    </div>
+                    <div class="detail">
+                        <div class="name">{{m.name}}</div>
+                        <div class="rating">{{m.rating}}</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="theatre-movies">
+            <div class="top">
+                <h4>THEATRE MOVIES</h4>
+                <div class="view-all">View All</div>
+            </div>
+
+            <div class="movies-thumbnail">
+                <div class="movie" *ngFor="let m of theatreMovies" (click)="goToMovie('theatre', m.id)">
+                    <div class="cover-img" style="cursor: pointer;">
+                        <img [src]="m.cover" alt="">
+                    </div>
+                    <div class="detail">
+                        <div class="name">{{m.name}}</div>
+                        <div class="rating">{{m.rating}}</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="popular-movies">
+        <div class="top">
+            <h4>POPULAR MOVIES</h4>
+            <div class="view-all">View All</div>
+        </div>
+
+        <div class="movies-thumbnail">
+            <div class="movie" *ngFor="let m of popularMovies" (click)="goToMovie('popular', m.id)">
+                <div class="cover-img" style="cursor: pointer;">
+                    <img [src]="m.cover" alt="">
+                </div>
+                <div class="detail">
+                    <div class="name">{{m.name}}</div>
+                    <div class="rating">{{m.rating}}</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
