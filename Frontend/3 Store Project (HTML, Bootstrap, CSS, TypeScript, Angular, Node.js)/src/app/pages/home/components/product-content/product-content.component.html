@@ -1,0 +1,29 @@
+<mat-card *ngIf="product">
+    <div [ngClass]="{'text-center': !fullWidthMode, 'd-flex': fullWidthMode}">
+        <img [src]="product.image" class="mb-1 mx-auto" style="height: 200px; width: 150px;">
+        <div class="w-100" [ngClass]="{'px-3 d-flex flex-column justify-content-between': fullWidthMode}">
+            <div>
+                <h5>{{product.category | uppercase}}</h5>
+                <p class="text-truncate" style="white-space: nowrap;" onmouseover="this.style.whiteSpace='normal';"
+                    onmouseout="this.style.whiteSpace='nowrap';">{{product.title}}</p>
+                <p *ngIf="fullWidthMode">{{product.description}}</p>
+            </div>
+            <div class="d-flex justify-content-between m-1">
+                <span class="text-success">{{ product.price | currency:'USD' }}</span>
+                <button class="border-0 bg-white" (click)="OnAddToCart()">
+                    <mat-icon class="text-black">shopping_cart</mat-icon>
+                </button>
+
+            </div>
+        </div>
+    </div>
+</mat-card>
+
+<!-- // product: Product | undefined = {
+// id: 1,
+// title: 'Pullover',
+// price: 25,
+// category: 'Shirts',
+// description: 'Description',
+// image: 'https://via.placeholder.com/150'
+// }; -->
