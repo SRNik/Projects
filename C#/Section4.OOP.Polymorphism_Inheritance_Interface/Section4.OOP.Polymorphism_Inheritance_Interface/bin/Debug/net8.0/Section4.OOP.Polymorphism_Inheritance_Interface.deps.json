@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Section4.OOP.Polymorphism_Inheritance_Interface/1.0.0": {
+        "runtime": {
+          "Section4.OOP.Polymorphism_Inheritance_Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Section4.OOP.Polymorphism_Inheritance_Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section4.OOP.Polymorphism_Inheritance_Interface", "Section4.OOP.Polymorphism_Inheritance_Interface\Section4.OOP.Polymorphism_Inheritance_Interface.csproj", "{C222898E-05C8-4CDC-91E3-48AB46EB888C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookiesCookbook", "Assignment - Cookies Cookbook\CookiesCookbook.csproj", "{33A99DA6-989F-45A9-90E6-E5A89F9EF0DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C222898E-05C8-4CDC-91E3-48AB46EB888C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C222898E-05C8-4CDC-91E3-48AB46EB888C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C222898E-05C8-4CDC-91E3-48AB46EB888C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C222898E-05C8-4CDC-91E3-48AB46EB888C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33A99DA6-989F-45A9-90E6-E5A89F9EF0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A99DA6-989F-45A9-90E6-E5A89F9EF0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A99DA6-989F-45A9-90E6-E5A89F9EF0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A99DA6-989F-45A9-90E6-E5A89F9EF0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38BE5F04-15CA-4AD5-AF01-B316091FEFC5}
+	EndGlobalSection
+EndGlobal
