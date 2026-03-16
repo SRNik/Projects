@@ -1,0 +1,13 @@
+<div class="row">
+    <div class="col-xs-12">
+        <button class="btn brn-success" (click)="onNewRecipe()">New Recipe</button>
+    </div>
+</div>
+<hr>
+<div class="row">
+    <div class="col-xs-12">
+        <app-recipe-item *ngFor="let recipeEl of recipes; let i = index" [recipe]="recipeEl"
+            [index]="i"></app-recipe-item>
+        <!-- Need to trigger the event again because we want to go one step up again -->
+    </div>
+</div>

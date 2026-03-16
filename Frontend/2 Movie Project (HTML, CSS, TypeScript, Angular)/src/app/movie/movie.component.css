@@ -1,0 +1,102 @@
+.movie-container {
+    width: 1400px;
+    margin: 0 auto;
+
+    .top {
+        display: flex;
+
+        .left {
+            width: 450px;
+
+            .name {
+                font-size: 36px;
+                font-weight: bold;
+            }
+
+            .rating {
+                font-weight: bold;
+                text-decoration: underline;
+            }
+
+            .cover {
+                width: 400px;
+                height: 500px;
+                margin-right: 50px;
+                margin-top: 8px;
+
+                img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                }
+            }
+        }
+
+        .right {
+            width: 900px;
+            padding-top: 80px;
+
+            .title {
+                margin-bottom: 0px
+            }
+
+            .rating-form {
+                margin-top: 25px;
+            }
+
+            label {
+                font-weight: bold;
+            }
+
+            textarea {
+                resize: none;
+            }
+        }
+    }
+
+    .bottom {
+        .title {
+            margin-bottom: 20px;
+        }
+
+        .reviews {
+            width: 1000px;
+
+            .review {
+                margin-bottom: 15px;
+                background-color: rgb(235, 240, 240);
+                border-radius: 7px;
+                padding: 7px;
+
+                .review-details {
+                    display: flex;
+                    justify-content: space-between;
+                    margin-bottom: 10px;
+
+                    .review-left {
+                        .author {
+                            font-size: 20px;
+                            font-weight: bold;
+                        }
+
+                        .author-date {
+                            opacity: 0.8;
+                        }
+                    }
+
+                    .review-right {
+                        display: flex;
+                        align-items: center;
+
+                        .rating-value {
+                            font-weight: bold;
+                            text-decoration: underline;
+                        }
+                    }
+                }
+
+            }
+        }
+    }
+
+}
