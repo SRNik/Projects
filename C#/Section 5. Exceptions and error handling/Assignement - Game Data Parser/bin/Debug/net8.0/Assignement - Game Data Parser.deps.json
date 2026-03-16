@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Assignement - Game Data Parser/1.0.0": {
+        "runtime": {
+          "Assignement - Game Data Parser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignement - Game Data Parser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Assignement - Game Data Parser\bin\Debug\net8.0\Assignement - Game Data Parser.exe
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Assignement - Game Data Parser\bin\Debug\net8.0\Assignement - Game Data Parser.deps.json
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Assignement - Game Data Parser\bin\Debug\net8.0\Assignement - Game Data Parser.runtimeconfig.json
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Assignement - Game Data Parser\bin\Debug\net8.0\Assignement - Game Data Parser.dll
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Assignement - Game Data Parser\bin\Debug\net8.0\Assignement - Game Data Parser.pdb
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Assignement - Game Data Parser\obj\Debug\net8.0\Assignement - Game Data Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Assignement - Game Data Parser\obj\Debug\net8.0\Assignement - Game Data Parser.AssemblyInfoInputs.cache
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Assignement - Game Data Parser\obj\Debug\net8.0\Assignement - Game Data Parser.AssemblyInfo.cs
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Assignement - Game Data Parser\obj\Debug\net8.0\Assignement - Game Data Parser.csproj.CoreCompileInputs.cache
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Assignement - Game Data Parser\obj\Debug\net8.0\Assignement - Game Data Parser.sourcelink.json
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Assignement - Game Data Parser\obj\Debug\net8.0\Assignement - Game Data Parser.dll
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Assignement - Game Data Parser\obj\Debug\net8.0\refint\Assignement - Game Data Parser.dll
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Assignement - Game Data Parser\obj\Debug\net8.0\Assignement - Game Data Parser.pdb
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Assignement - Game Data Parser\obj\Debug\net8.0\Assignement - Game Data Parser.genruntimeconfig.cache
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Assignement - Game Data Parser\obj\Debug\net8.0\ref\Assignement - Game Data Parser.dll

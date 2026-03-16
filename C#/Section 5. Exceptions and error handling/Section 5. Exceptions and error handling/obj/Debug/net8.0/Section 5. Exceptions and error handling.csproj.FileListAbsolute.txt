@@ -1,0 +1,15 @@
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Section 5. Exceptions and error handling\obj\Debug\net8.0\Section 5. Exceptions and error handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Section 5. Exceptions and error handling\obj\Debug\net8.0\Section 5. Exceptions and error handling.AssemblyInfoInputs.cache
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Section 5. Exceptions and error handling\obj\Debug\net8.0\Section 5. Exceptions and error handling.AssemblyInfo.cs
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Section 5. Exceptions and error handling\obj\Debug\net8.0\Section 5. Exceptions and error handling.csproj.CoreCompileInputs.cache
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Section 5. Exceptions and error handling\obj\Debug\net8.0\Section 5. Exceptions and error handling.sourcelink.json
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Section 5. Exceptions and error handling\bin\Debug\net8.0\Section 5. Exceptions and error handling.exe
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Section 5. Exceptions and error handling\bin\Debug\net8.0\Section 5. Exceptions and error handling.deps.json
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Section 5. Exceptions and error handling\bin\Debug\net8.0\Section 5. Exceptions and error handling.runtimeconfig.json
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Section 5. Exceptions and error handling\bin\Debug\net8.0\Section 5. Exceptions and error handling.dll
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Section 5. Exceptions and error handling\bin\Debug\net8.0\Section 5. Exceptions and error handling.pdb
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Section 5. Exceptions and error handling\obj\Debug\net8.0\Section 5. Exceptions and error handling.dll
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Section 5. Exceptions and error handling\obj\Debug\net8.0\refint\Section 5. Exceptions and error handling.dll
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Section 5. Exceptions and error handling\obj\Debug\net8.0\Section 5. Exceptions and error handling.pdb
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Section 5. Exceptions and error handling\obj\Debug\net8.0\Section 5. Exceptions and error handling.genruntimeconfig.cache
+C:\Courses\UltimateCSharpMasterclass\repos\Section 5. Exceptions and error handling\Section 5. Exceptions and error handling\obj\Debug\net8.0\ref\Section 5. Exceptions and error handling.dll
